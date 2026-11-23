@@ -15,7 +15,7 @@ ai-harness/
 ├── docs/
 │   ├── README.md            # 知识库结构说明（怎么组织 docs）
 │   └── guides/
-│       ├── AI开发写作维护指南.md  # 标准定位/开发流程/修改/验证/工作流模板
+│       ├── AI开发协作维护指南.md  # 标准定位/开发流程/修改/验证/工作流模板
 │       └── 复用检查清单.md   # 新项目接入 harness 的检查清单
 └── openspec/
     ├── README.md            # 变更工件（提案/设计/任务）中文命名规范
@@ -49,7 +49,7 @@ ai-harness/
 → ⑪ 更新业务词索引 + CodeGraph + 记忆
 ```
 
-详见 `docs/guides/AI开发写作维护指南.md`。
+详见 `docs/guides/AI开发协作维护指南.md`。
 
 ## 维护约定
 

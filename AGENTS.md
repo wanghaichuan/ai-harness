@@ -7,7 +7,7 @@
 1. **架构速查**：`docs/architecture/index.md`
 2. **隐性约定（必读）**：`docs/architecture/implicit-contracts.md`
 3. **产品规则**：`docs/product/index.md`
-4. **AI 协作流程**：`docs/guides/AI开发写作维护指南.md` — 标准定位、开发流程、修改、验证、工作流
+4. **AI 协作流程**：`docs/guides/AI开发协作维护指南.md` — 标准定位、开发流程、修改、验证、工作流
 5. **业务词定位**：`docs/guides/业务词到代码入口索引.md`
 
 ## 编码前置动作（强制）
